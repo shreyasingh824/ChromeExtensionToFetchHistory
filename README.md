@@ -31,3 +31,5 @@ Script (typedUrls.js):
 Handles the logic for retrieving and processing browsing history.
 Counts the number of times a user typed each URL.
 Builds and sorts a list of URLs based on usage frequency.
+
+![](https://github.com/shreyasingh824/ChromeExtensionToFetchHistory/blob/main/showHistory/Screenshot%20(1).png)
